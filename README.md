@@ -16,7 +16,7 @@ Installation -
 
   Clone the repository
 
-    git clone 
+    git clone https://github.com/MAB-52/STOPWATCH.git
 
 Open index.html in your web browser
 
